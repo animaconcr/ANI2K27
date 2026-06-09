@@ -3,7 +3,7 @@
 *Last updated: 2026-06-01 · Draft V1 · Léelo junto con `product-marketing.md`.*
  
 > Este documento es el "ICP B2B" de AnimaCon: a quién y cómo le vendemos
-> **patrocinios** (prioridad #1) y **stands/espacios comerciales** (prioridad #3).
+> **patrocinios** (prioridad #1) y **stands/espacios comerciales** (prioridad #2).
 > Las skills de venta (`prospecting`, `cold-email`, `sales-enablement`, `revops`,
 > `pricing`) deben leer ESTE archivo, no inventar un ICP de SaaS.
 >
@@ -18,15 +18,15 @@
  
 ## Qué vendemos
 1. **Patrocinios** (prioridad #1) — `patrocinios@animaconcr.com`
-   - Marca asociada al evento más grande de cultura pop asiática de CR.
+   - Marca asociada a uno de los eventos de cultura pop asiática de CR más importantes.
    - Activación de marca ante público joven de alta afinidad.
    - Paquetes por nivel [VERIFICAR tiers y precios reales]: p.ej. Title / Oro / Plata / Bronce, con combinaciones de naming, logo en materiales, stand premium, menciones en redes/escenario, contenido co-branded, data de leads.
-2. **Stands / espacios comerciales** (prioridad #3) — `ventas@animaconcr.com`
+2. **Stands / espacios comerciales** (prioridad #2) — `ventas@animaconcr.com`
    - "Llegá a miles de fanáticos de cultura pop deseosos de comprar tus productos."
-   - Espacios para tiendas, marcas y artistas (artist alley aparte).
+   - Espacios para tiendas, marcas y artistas (artist alley).
 ## Activo de venta central: el media kit
 La pieza que cierra patrocinios es un **media kit** (deck + one-pager) con:
-- Quiénes somos: el más grande, desde 2015, +24K IG, 2.200–2.600 asistentes/edición.
+- Quiénes somos: desde 2017, +24K IG, 6000 asistentes en la última edición (Enero 2026).
 - Audiencia: demografía [VERIFICAR], afinidad cultura pop japonesa/coreana, poder de compra fan.
 - Alcance: asistentes presenciales + alcance digital (IG/X/Threads/TikTok [VERIFICAR]).
 - Inventario de activaciones por tier (ver arriba).
